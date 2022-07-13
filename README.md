@@ -1,1 +1,1 @@
-# bike-sharing-multiple-linear-regression
+# bike-sharing-linear-regression
